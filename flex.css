@@ -1,0 +1,40 @@
+.nav-bar1{
+    background-color: black;
+    color:white;
+    padding:5px;
+    font-size:xx-large;
+    display:flex;
+    justify-content:space-around;
+
+}
+.nav-bar1>.nav-item>p{
+    font-size: medium;
+    margin:0;
+    text-align:center;
+}
+.nav-bar2{
+    background-color: black;
+    color:white;
+    padding:5px;
+    font-size:xx-large;
+    display:flex;
+    justify-content:space-around;
+}
+.nav-bar2>.nav-item>p{
+    font-size: medium;
+    margin:0;
+    text-align:center;
+}
+.nav-bar3{
+    background-color: black;
+    color:white;
+    padding:5px;
+    font-size:xx-large;
+    display:flex;
+    justify-content:space-around;
+}
+.nav-bar3>.nav-item>p{
+    font-size: medium;
+    margin:0;
+    text-align:center;
+}
